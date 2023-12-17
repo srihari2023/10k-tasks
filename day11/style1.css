@@ -1,0 +1,35 @@
+.block1{
+    margin-left: 10%;
+    margin: 80px;
+    
+}
+div a{
+    display: block;
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+    
+}
+.main{
+    border: 2px solid black;
+    width: 900px;
+    height: 100%;
+    display: inline-block;
+     overflow-x: scroll ;
+    float: right;
+    margin-top: -25%;
+    margin-right: 15%;
+    background-color: cadetblue;
+}
+#div{
+    border: 5px solid black;
+    overflow: scroll;
+    margin: 5%;
+    width: 80%;
+    height: 40%;
+    white-space: nowrap;
+    background-color: cadetblue;
+}
+body{
+    background-color: dimgrey;
+}

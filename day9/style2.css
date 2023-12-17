@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cards{
+    
+    display: inline-block;
+    width: 20%;
+    background-color: orange;
+    margin: 40px;
+}
+.image{
+    width: 100%;
+}
+.title{
+    text-align: center;
+}
